@@ -1,5 +1,5 @@
 {
-    "name": "otisz/laravel-imgix",
+    "name": "jeversen/laravel-imgix",
     "description": "Laravel package for generating Imgix URLs for your images",
     "keywords": [
         "laravel",
