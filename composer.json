@@ -12,8 +12,8 @@
     "type": "library",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/Otisz/Laravel-Imgix/issues",
-        "source": "https://github.com/Otisz/Laravel-Imgix"
+        "issues": "https://github.com/jeversen/Laravel-Imgix/issues",
+        "source": "https://github.com/jeversen/Laravel-Imgix"
     },
     "authors": [
         {
@@ -24,7 +24,7 @@
     "require": {
         "php": "^7.1",
         "imgix/imgix-php": "^3.0",
-        "illuminate/support": "^6.0"
+        "illuminate/support": "^6.0|ˆ7.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.2",
