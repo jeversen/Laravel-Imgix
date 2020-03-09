@@ -24,7 +24,7 @@
     "require": {
         "php": "^7.1",
         "imgix/imgix-php": "^3.0",
-        "illuminate/support": "^6.0|7.0"
+        "illuminate/support": "^6.0|ˆ7.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.2",
