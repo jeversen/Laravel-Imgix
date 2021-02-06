@@ -22,9 +22,9 @@
         }
     ],
     "require": {
-        "php": "^7.1",
+        "php": "^7.1|^8.0",
         "imgix/imgix-php": "^3.0",
-        "illuminate/support": "^6.0|^7.0"
+        "illuminate/support": "^6.0|^7.0|^8.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.2",
